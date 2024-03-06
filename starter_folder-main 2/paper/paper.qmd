@@ -2,7 +2,6 @@
 title: 5th March Class
 author: 
   - Krishiv Jain
-  - Another author
 thanks: "Code and data are available at: https://github.com/Krishiv-J/politics3/tree/main"
 date: today
 date-format: long
